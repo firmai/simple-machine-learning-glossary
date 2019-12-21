@@ -6,7 +6,7 @@ The purpose of these defintions are to lean towards ease of understanding and an
 
 **Target** is what you want to predict.
 
-*They have decided to use the next month's revenue as the target and not the number of customers serviced*
+*They have decided to use the next month's revenue as the target and not the number of customers served*
 
 ---
 
