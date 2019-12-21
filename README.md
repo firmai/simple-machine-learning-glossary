@@ -1,4 +1,4 @@
-# Simple Machine Learning and Data Science Definitions without Copyright
+# Machine Learning and Data Science Definitions for Business (without copyright)
 
 The purpose of these defintions are to lean towards ease of understanding and analogy as a means to quickly communicate work to management. Use it freely and don't feel the need to cite anyone. 
 
