@@ -18,10 +18,16 @@ The purpose of these defintions are to lean towards ease of understanding and an
 
 **Supervised learning** is a method to identify the relationship between data (called features) and something and that which you are trying to predict (called the target) using a machine learning model.
 
-*He used a supervised learning model to predict whether or not the passanger will survive (the target) the crash by looking at their characteristics like their age and gender (the data)*
+*She used a supervised learning model to predict whether or not the passanger will survive (the target) the Titanic by looking at their characteristics like age, gender and type of ticket (the data)*
 
 ---
 
 **Unspervised learning** is a method where you only want to identify the structure in data instead of predicting something. 
 
 *He used a supervised learning model to predict whether or not the passanger will survive (the target) the crash by looking at their characteristics like their age and gender (the data)*
+
+---
+
+**Reinforcement learning** is a method for an agent to learn the best action to take in an environment given the agent's current state. 
+
+*She used a reinforcement learning model to dynamically price their website merchandise, it tracks the online user's current behaviour and changes the price of the items in response based on previously learned patterns to optimise sales*
