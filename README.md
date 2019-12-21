@@ -28,6 +28,6 @@ The purpose of these defintions are to lean towards ease of understanding and an
 
 ---
 
-**Reinforcement learning** is a method for an agent to learn the best action to take in an environment given the agent's current state. 
+**Reinforcement learning** is a method for an agent to learn the best action to take in an environment given the agent's current state so as to maximise future expected rewards. 
 
-*She used a reinforcement learning model to dynamically price their website merchandise, it tracks the online user's current behaviour and changes the price of the items in response based on previously learned patterns to optimise sales*
+*She used a reinforcement learning model to dynamically price their website merchandise (environment), it tracks the online user's current behaviour (their state) and then changes the price of items (action) in response based on previously learned patterns to optimise sales (future rewards/value function)*
