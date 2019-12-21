@@ -1,6 +1,6 @@
 # Simple Machine Learning and Data Science Definitions without Copyright
 
-The purpose of these defintions are to lean towards ease of understanding and analogy as a means to quickly communicate your work to management. Use it freely and don't feel the need to cite anyone. 
+The purpose of these defintions are to lean towards ease of understanding and analogy as a means to quickly communicate work to management. Use it freely and don't feel the need to cite anyone. 
 
 **Target** is what you want to predict.
 *They have decided to use the next month's revenue as the target and not the number of customers serviced*
